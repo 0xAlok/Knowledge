@@ -1,5 +1,5 @@
 # MY KNOWLEDGE WIKI 🌱
-## Hi. I'm Alok. This is my knowledge wiki.
+## Hi. I'm Alok. This is
 
 A digital-garden where I share interesting things:
 
