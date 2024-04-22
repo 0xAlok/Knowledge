@@ -1,4 +1,4 @@
-# MY KNOWLEDGE WIKI 🌱
+# My Knowledge Wiki 🌱
 ## Hi. I'm Alok. This is my knowledge wiki
 
 A digital-garden where I share interesting things:
