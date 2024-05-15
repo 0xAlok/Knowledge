@@ -3,7 +3,7 @@
 
 A digital-garden where I share interesting things:
 
-> *A human being should be able to change a diaper, plan an invasion, butcher a
+> *A human being should be able to change a diaper, plan ann invasion, butcher a
 > hog, con a ship, design a building, write a sonnet, balance accounts, build
 > a wall, set a bone, comfort the dying, take orders, give orders, cooperate,
 > act alone, solve equations, analyse a new problem, pitch manure, program a
